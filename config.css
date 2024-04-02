@@ -1,0 +1,95 @@
+.cuadrito1 {
+ width: 600px;
+ height: 110px;
+ border: 1px solid black;
+ border-radius: 15px;
+ background-color: red;
+ 
+align-items: center;
+justify-content: center;
+display: flex;
+}
+
+.dad{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.cuadrito2{
+width: 250px;
+ height: 300px;
+ border: 1px solid black;
+ border-radius: 15px;
+ background-color: red;
+ 
+align-items: center;
+justify-content: center;
+display: flex; 
+}
+
+.cuadrito3{
+    width: 250px;
+     height: 300px;
+     border: 1px solid black;
+     border-radius: 15px;
+     background-color: red;
+     
+    align-items: center;
+    justify-content: center;
+    display: flex; 
+    }
+
+.cuadro{
+    width: 200px;
+     height: 110px;
+     border: 1px solid black;
+     border-radius: 15px;
+     background-color: red;
+     
+    align-items: center;
+    justify-content: center;
+    display: flex; 
+    
+}
+
+.dad2{
+
+gap: 10%;
+}
+
+.cuadro1{
+    width: 200px;
+    height: 60px;
+    border: 1px solid black;
+    border-radius: 15px;
+    background-color: red;
+    
+   align-items: center;
+   justify-content: center;
+   display: flex; 
+}
+
+.cuadro2{
+    width: 200px;
+    height: 60px;
+    border: 1px solid black;
+    border-radius: 15px;
+    background-color: red;
+    
+   align-items: center;
+   justify-content: center;
+   display: flex; 
+}
+
+.cuadro3{
+    width: 200px;
+    height: 300px;
+    border: 1px solid black;
+    border-radius: 15px;
+    background-color: red;
+    
+   align-items: center;
+   justify-content: center;
+   display: flex; 
+}
